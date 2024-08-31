@@ -1,7 +1,3 @@
-Here's a template for a GitHub README file tailored for an interview guide focused on Azure Data Engineering, specifically covering Python and PySpark:
-
----
-
 # Azure Data Engineer Interview Guide
 
 Welcome to the **Azure Data Engineer Interview Guide**! This repository is designed to help aspiring and experienced data engineers prepare for interviews by providing a comprehensive list of topics, best practices, and example questions related to Azure Data Engineering, with a special focus on Python and PySpark.
